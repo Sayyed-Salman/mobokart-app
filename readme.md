@@ -12,6 +12,8 @@
 
 - backend
 
+  create a .env file and paste [ENV file](#env-file)
+
   `cd backend`
   <br>
   `npm install`
@@ -19,6 +21,23 @@
   `node index.js`
 
 <hr>
+
+## Views
+
+1. Homepage
+   ![](./screenshots/homepage.jpg)
+
+2. Login
+   ![](./screenshots/login.jpg)
+
+3. Register
+   ![](./screenshots/register.jpg)
+
+4. Cart
+   ![](./screenshots/cart.jpg)
+
+5. Create Products (admin functionality)
+   ![](./screenshots/create_products.jpg)
 
 ## ENV file
 

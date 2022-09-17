@@ -14,7 +14,7 @@ const NavBar = () => {
   return (
     <nav className="nav-bar">
       <Link to="/">
-        <img src="https://raw.githubusercontent.com/STQA-Project/MoboKart/2341e22338f64d615164445960f0a9a5f033e10c/designs/login_signup/mobokartsvg.svg?token=AR4276VGAOV7SFKQAY57AZ3DENZTE" alt="logo" width="100" />
+        <img src="../../public/mobokart-logo.svg" alt="logo" width="100" />
         <h1>MoboKart</h1>
       </Link>
       <Link to="/cart">
